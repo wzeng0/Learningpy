@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d669555-52dc-4654-9015-3d5c566c15cd" name="Default Changelist" comment="Simple dictionary">
-      <change afterPath="$PROJECT_DIR$/LearningCode/Dictionary.py" afterDir="false" />
+    <list default="true" id="5d669555-52dc-4654-9015-3d5c566c15cd" name="Default Changelist" comment="fixed typo">
+      <change afterPath="$PROJECT_DIR$/LearningCode/While Loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.Dictionary">
+  <component name="RunManager" selected="Python.While_Loops">
     <configuration name="Code1" type="PythonConfigurationType" factoryName="Python">
       <module name="Learningpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -309,10 +309,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="While_Loops" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearningCode/While Loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Code10" />
       <item itemvalue="Python.Code11" />
       <item itemvalue="Python.Dictionary" />
+      <item itemvalue="Python.While_Loops" />
       <item itemvalue="Python.Code1" />
       <item itemvalue="Python.Code2" />
       <item itemvalue="Python.Code3" />
@@ -439,7 +461,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608438924742</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Simple dictionary">
+      <created>1608439859884</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1608439859884</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fixed typo">
+      <created>1608439880558</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1608439880558</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,6 +505,7 @@
     <MESSAGE value="idk" />
     <MESSAGE value="if statements in functions" />
     <MESSAGE value="Simple dictionary" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simple dictionary" />
+    <MESSAGE value="fixed typo" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed typo" />
   </component>
 </project>
