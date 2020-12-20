@@ -22,6 +22,6 @@ print(monthConversions["Nov"])
 print(monthConversions.get("Dec"))
 
 # if a key that is not in the dictionary is entered, then it will return none
-# if key is not ffound, will return the string given after the comma
+# if key is not found, will return the string given after the comma
 # without the get, an error message will appear if key is not in dictionary
 print(monthConversions.get("Non", "Not a valid key"))
