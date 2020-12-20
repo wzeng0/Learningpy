@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d669555-52dc-4654-9015-3d5c566c15cd" name="Default Changelist" comment="While loops">
-      <change afterPath="$PROJECT_DIR$/LearningCode/Guessing_Game.py" afterDir="false" />
+    <list default="true" id="5d669555-52dc-4654-9015-3d5c566c15cd" name="Default Changelist" comment="A guessing game for the word Pineapple">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningCode/Guessing_Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningCode/Guessing_Game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -504,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608440973039</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="A guessing game for the word Pineapple">
+      <created>1608442007181</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1608442007181</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -536,6 +543,7 @@
     <MESSAGE value="Simple dictionary" />
     <MESSAGE value="fixed typo" />
     <MESSAGE value="While loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="While loops" />
+    <MESSAGE value="A guessing game for the word Pineapple" />
+    <option name="LAST_COMMIT_MESSAGE" value="A guessing game for the word Pineapple" />
   </component>
 </project>
