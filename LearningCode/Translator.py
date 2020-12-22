@@ -10,7 +10,8 @@ def coder(phrase):
     for letter in phrase:
         if letter.lower() in alphabet:
             index = alphabet.find(letter.lower())
-            if letter.capitalize() == letter:
+            # if letter.capitalize() == letter: can be written as
+            if letter.isupper():
                 code = code + codebet[index].capitalize()
             else:
                 code = code + codebet[index]
@@ -30,7 +31,8 @@ def decode(phrase):
     for letter in phrase:
         if letter.lower() in codebet:
             index = codebet.find(letter.lower())
-            if letter.capitalize() == letter:
+            # if letter.capitalize() == letter: can be written as
+            if letter.isupper():
                 decoded = decoded + alphabet[index].capitalize()
             else:
                 decoded = decoded + alphabet[index]
