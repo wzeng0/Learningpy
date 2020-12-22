@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5d669555-52dc-4654-9015-3d5c566c15cd" name="Default Changelist" comment="Exponents">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningCode/FriendsCollege.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearningCode/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningCode/Files/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningCode/Files/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -714,7 +713,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608612342184</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Moved to new folder">
+      <created>1608612492608</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1608612492608</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -730,7 +736,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mathematic Functions" />
     <MESSAGE value="User Inputs" />
     <MESSAGE value="MadLibs code" />
     <MESSAGE value="Dealing with lists" />
@@ -755,6 +760,7 @@
     <MESSAGE value="Produces error when input is not a number" />
     <MESSAGE value="Txt file for friend's colleges" />
     <MESSAGE value="Opening txt files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Opening txt files" />
+    <MESSAGE value="Moved to new folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved to new folder" />
   </component>
 </project>
