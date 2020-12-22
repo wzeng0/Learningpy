@@ -8,9 +8,12 @@ input = input("Please enter phrase: ")
 def coder(phrase):
     code = ""
     for letter in phrase:
-        if letter in alphabet:
-            index = alphabet.find(letter)
-            code = code + codebet[index]
+        if letter.lower() in alphabet:
+            index = alphabet.find(letter.lower())
+            if letter.capitalize() == letter:
+                code = code + codebet[index].capitalize()
+            else:
+                code = code + codebet[index]
     return code
 
 # test codes
@@ -25,9 +28,12 @@ print(coder(input))
 def decode(phrase):
     decoded = ""
     for letter in phrase:
-        if letter in codebet:
-            index = codebet.find(letter)
-            decoded = decoded + alphabet[index]
+        if letter.lower() in codebet:
+            index = codebet.find(letter.lower())
+            if letter.capitalize() == letter:
+                decoded = decoded + alphabet[index].capitalize()
+            else:
+                decoded = decoded + alphabet[index]
     return decoded
 
 print(decode(coder(input)))

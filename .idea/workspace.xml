@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d669555-52dc-4654-9015-3d5c566c15cd" name="Default Changelist" comment="Exponents">
-      <change afterPath="$PROJECT_DIR$/LearningCode/Translator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningCode/Translator.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningCode/Translator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -627,7 +626,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608608102947</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Coding phrases">
+      <created>1608609801653</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1608609801653</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -664,6 +670,7 @@
     <MESSAGE value="For loops" />
     <MESSAGE value="Exponents" />
     <MESSAGE value="Nested Loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nested Loops" />
+    <MESSAGE value="Coding phrases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coding phrases" />
   </component>
 </project>
