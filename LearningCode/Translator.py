@@ -2,7 +2,7 @@
 # all letters shifted to the right
 alphabet = "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z"
 codebet = "z, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y"
-input = input("Please enter phrase: ")
+# input = input("Please enter phrase: ")
 
 # Codes the inputted phrase into the coded language
 def coder(phrase):
@@ -24,7 +24,7 @@ def coder(phrase):
 # print(alphabet.find("h")) finds index of string
 # print(codebet[21]) finds character at the index given
 
-print(coder(input))
+# print(coder(input))
 
 def decode(phrase):
     decoded = ""
@@ -38,4 +38,4 @@ def decode(phrase):
                 decoded = decoded + alphabet[index]
     return decoded
 
-print(decode(coder(input)))
+# print(decode(coder(input)))
